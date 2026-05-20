@@ -1,0 +1,29 @@
+.app-layout {
+  display: flex;
+  min-height: 100vh;
+  background: var(--background-light);
+}
+
+.main-section {
+  min-width: 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  margin-left: 260px;
+}
+
+.page-content {
+  min-width: 0;
+  flex: 1;
+  overflow-y: auto;
+}
+
+@media (max-width: 900px) {
+  .app-layout {
+    flex-direction: column;
+  }
+
+  .main-section {
+    margin-left: 0;
+  }
+}

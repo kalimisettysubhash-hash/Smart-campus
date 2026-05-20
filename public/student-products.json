@@ -1,0 +1,38 @@
+[
+  {
+    "id": "local-1",
+    "title": "Engineering Mathematics Notes Bundle",
+    "name": "Engineering Mathematics Notes Bundle",
+    "price": 180,
+    "category": "Study Materials",
+    "condition": "Digital",
+    "description": "Clean unit-wise notes with formulas, solved examples, and exam revision points.",
+    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=500&q=80",
+    "sellerName": "Academic Desk",
+    "isPromoted": false
+  },
+  {
+    "id": "local-2",
+    "title": "Lab Coat and Safety Goggles",
+    "name": "Lab Coat and Safety Goggles",
+    "price": 650,
+    "category": "Other",
+    "condition": "Like New",
+    "description": "White lab coat with protective goggles. Suitable for chemistry and workshop labs.",
+    "image": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=500&q=80",
+    "sellerName": "Science Club",
+    "isPromoted": false
+  },
+  {
+    "id": "local-3",
+    "title": "Semester Project Report Formatting",
+    "name": "Semester Project Report Formatting",
+    "price": 300,
+    "category": "Services",
+    "condition": "Digital",
+    "description": "Report formatting, table of contents, references, and final PDF export support.",
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=500&q=80",
+    "sellerName": "Design Cell",
+    "isPromoted": true
+  }
+]
